@@ -1,15 +1,17 @@
 :root {
     --white: #fff;
-    --background: #f2f3f5;
+    --background: rgb(21, 26, 48);
     --gray-line: #dcdde0;
-    --text: #666666;
+    --text: #b3b9ff;
     --text-highlight: #b3b9ff;
-    --title: #2e384d;
+    --title: #cedbf7;
     --red: #e83f5b;
     --green: #4cd62b;
-    --blue: #5965e0;
-    --blue-dark: #4953b8;
+    --blue: linear-gradient(47deg, #00079b -60%, #3f86ff 100%);
+    --blue-dark: linear-gradient(47deg, #00022D -60%, #345faa 100%);
     --blue-twitter: #2aa9e0;
+    --fundo: rgb(34, 43, 69);
+
 }
 
 
