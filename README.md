@@ -24,7 +24,24 @@
 
 ## Demo
 
-Para ver funcionando o projeto clique <a href="https://moveit-vidal.vercel.app/" target="_blank">aqui</a>
+Para ver funcionando o projeto clique <a href="https://stoplittle.vercel.app/" target="_blank">Aqui</a>
+
+
+## ⌨ Como executar o projeto
+
+#### Clone o repositório
+git clone https://github.com/Ivan-Vidal/Move.it-React-JS.git
+
+#### Entre nos diretórios
+`cd Move.it-React-JS/moveit-next`
+
+#### Download das dependências
+`npm install`
+
+#### Execute o servidor
+`npm run dev`
+
+#### Abra seu navegador favorito e siga para `http://localhost:3000`
 
 
 ## Obrigado pela visista!
